@@ -1,0 +1,15 @@
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\25_zadanie_exponentiation\bin\Debug\net6.0\25_zadanie.exe
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\25_zadanie_exponentiation\bin\Debug\net6.0\25_zadanie.deps.json
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\25_zadanie_exponentiation\bin\Debug\net6.0\25_zadanie.runtimeconfig.json
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\25_zadanie_exponentiation\bin\Debug\net6.0\25_zadanie.dll
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\25_zadanie_exponentiation\bin\Debug\net6.0\25_zadanie.pdb
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\25_zadanie_exponentiation\obj\Debug\net6.0\25_zadanie.csproj.AssemblyReference.cache
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\25_zadanie_exponentiation\obj\Debug\net6.0\25_zadanie.GeneratedMSBuildEditorConfig.editorconfig
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\25_zadanie_exponentiation\obj\Debug\net6.0\25_zadanie.AssemblyInfoInputs.cache
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\25_zadanie_exponentiation\obj\Debug\net6.0\25_zadanie.AssemblyInfo.cs
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\25_zadanie_exponentiation\obj\Debug\net6.0\25_zadanie.csproj.CoreCompileInputs.cache
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\25_zadanie_exponentiation\obj\Debug\net6.0\25_zadanie.dll
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\25_zadanie_exponentiation\obj\Debug\net6.0\refint\25_zadanie.dll
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\25_zadanie_exponentiation\obj\Debug\net6.0\25_zadanie.pdb
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\25_zadanie_exponentiation\obj\Debug\net6.0\25_zadanie.genruntimeconfig.cache
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\25_zadanie_exponentiation\obj\Debug\net6.0\ref\25_zadanie.dll

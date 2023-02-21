@@ -1,0 +1,45 @@
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27.1_zadanie_while\bin\Debug\net6.0\27.1__zadanie.exe
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27.1_zadanie_while\bin\Debug\net6.0\27.1__zadanie.deps.json
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27.1_zadanie_while\bin\Debug\net6.0\27.1__zadanie.runtimeconfig.json
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27.1_zadanie_while\bin\Debug\net6.0\27.1__zadanie.dll
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27.1_zadanie_while\bin\Debug\net6.0\27.1__zadanie.pdb
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27.1_zadanie_while\obj\Debug\net6.0\27.1__zadanie.csproj.AssemblyReference.cache
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27.1_zadanie_while\obj\Debug\net6.0\27.1__zadanie.GeneratedMSBuildEditorConfig.editorconfig
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27.1_zadanie_while\obj\Debug\net6.0\27.1__zadanie.AssemblyInfoInputs.cache
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27.1_zadanie_while\obj\Debug\net6.0\27.1__zadanie.AssemblyInfo.cs
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27.1_zadanie_while\obj\Debug\net6.0\27.1__zadanie.csproj.CoreCompileInputs.cache
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27.1_zadanie_while\obj\Debug\net6.0\27.1__zadanie.dll
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27.1_zadanie_while\obj\Debug\net6.0\refint\27.1__zadanie.dll
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27.1_zadanie_while\obj\Debug\net6.0\27.1__zadanie.pdb
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27.1_zadanie_while\obj\Debug\net6.0\27.1__zadanie.genruntimeconfig.cache
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27.1_zadanie_while\obj\Debug\net6.0\ref\27.1__zadanie.dll
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27.1_zadanie_ sum_of_digits\bin\Debug\net6.0\27.1__zadanie.exe
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27.1_zadanie_ sum_of_digits\bin\Debug\net6.0\27.1__zadanie.deps.json
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27.1_zadanie_ sum_of_digits\bin\Debug\net6.0\27.1__zadanie.runtimeconfig.json
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27.1_zadanie_ sum_of_digits\bin\Debug\net6.0\27.1__zadanie.dll
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27.1_zadanie_ sum_of_digits\bin\Debug\net6.0\27.1__zadanie.pdb
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27.1_zadanie_ sum_of_digits\obj\Debug\net6.0\27.1__zadanie.csproj.AssemblyReference.cache
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27.1_zadanie_ sum_of_digits\obj\Debug\net6.0\27.1__zadanie.GeneratedMSBuildEditorConfig.editorconfig
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27.1_zadanie_ sum_of_digits\obj\Debug\net6.0\27.1__zadanie.AssemblyInfoInputs.cache
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27.1_zadanie_ sum_of_digits\obj\Debug\net6.0\27.1__zadanie.AssemblyInfo.cs
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27.1_zadanie_ sum_of_digits\obj\Debug\net6.0\27.1__zadanie.csproj.CoreCompileInputs.cache
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27.1_zadanie_ sum_of_digits\obj\Debug\net6.0\27.1__zadanie.dll
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27.1_zadanie_ sum_of_digits\obj\Debug\net6.0\refint\27.1__zadanie.dll
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27.1_zadanie_ sum_of_digits\obj\Debug\net6.0\27.1__zadanie.pdb
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27.1_zadanie_ sum_of_digits\obj\Debug\net6.0\27.1__zadanie.genruntimeconfig.cache
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27.1_zadanie_ sum_of_digits\obj\Debug\net6.0\ref\27.1__zadanie.dll
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27_zadanie_ sum_of_digits\bin\Debug\net6.0\27.1__zadanie.exe
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27_zadanie_ sum_of_digits\bin\Debug\net6.0\27.1__zadanie.deps.json
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27_zadanie_ sum_of_digits\bin\Debug\net6.0\27.1__zadanie.runtimeconfig.json
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27_zadanie_ sum_of_digits\bin\Debug\net6.0\27.1__zadanie.dll
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27_zadanie_ sum_of_digits\bin\Debug\net6.0\27.1__zadanie.pdb
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27_zadanie_ sum_of_digits\obj\Debug\net6.0\27.1__zadanie.csproj.AssemblyReference.cache
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27_zadanie_ sum_of_digits\obj\Debug\net6.0\27.1__zadanie.GeneratedMSBuildEditorConfig.editorconfig
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27_zadanie_ sum_of_digits\obj\Debug\net6.0\27.1__zadanie.AssemblyInfoInputs.cache
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27_zadanie_ sum_of_digits\obj\Debug\net6.0\27.1__zadanie.AssemblyInfo.cs
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27_zadanie_ sum_of_digits\obj\Debug\net6.0\27.1__zadanie.csproj.CoreCompileInputs.cache
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27_zadanie_ sum_of_digits\obj\Debug\net6.0\27.1__zadanie.dll
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27_zadanie_ sum_of_digits\obj\Debug\net6.0\refint\27.1__zadanie.dll
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27_zadanie_ sum_of_digits\obj\Debug\net6.0\27.1__zadanie.pdb
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27_zadanie_ sum_of_digits\obj\Debug\net6.0\27.1__zadanie.genruntimeconfig.cache
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\27_zadanie_ sum_of_digits\obj\Debug\net6.0\ref\27.1__zadanie.dll

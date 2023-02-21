@@ -1,0 +1,15 @@
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\29_zadanie_creatArray\bin\Debug\net6.0\29_zadanie_creatArray.exe
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\29_zadanie_creatArray\bin\Debug\net6.0\29_zadanie_creatArray.deps.json
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\29_zadanie_creatArray\bin\Debug\net6.0\29_zadanie_creatArray.runtimeconfig.json
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\29_zadanie_creatArray\bin\Debug\net6.0\29_zadanie_creatArray.dll
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\29_zadanie_creatArray\bin\Debug\net6.0\29_zadanie_creatArray.pdb
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\29_zadanie_creatArray\obj\Debug\net6.0\29_zadanie_creatArray.csproj.AssemblyReference.cache
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\29_zadanie_creatArray\obj\Debug\net6.0\29_zadanie_creatArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\29_zadanie_creatArray\obj\Debug\net6.0\29_zadanie_creatArray.AssemblyInfoInputs.cache
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\29_zadanie_creatArray\obj\Debug\net6.0\29_zadanie_creatArray.AssemblyInfo.cs
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\29_zadanie_creatArray\obj\Debug\net6.0\29_zadanie_creatArray.csproj.CoreCompileInputs.cache
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\29_zadanie_creatArray\obj\Debug\net6.0\29_zadanie_creatArray.dll
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\29_zadanie_creatArray\obj\Debug\net6.0\refint\29_zadanie_creatArray.dll
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\29_zadanie_creatArray\obj\Debug\net6.0\29_zadanie_creatArray.pdb
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\29_zadanie_creatArray\obj\Debug\net6.0\29_zadanie_creatArray.genruntimeconfig.cache
+D:\home\Desktop\c_sharp_practyka\C_sharp_domashka_4_seminara\29_zadanie_creatArray\obj\Debug\net6.0\ref\29_zadanie_creatArray.dll
